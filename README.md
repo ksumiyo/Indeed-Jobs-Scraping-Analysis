@@ -1,4 +1,4 @@
-# Indeed-Job-Info-Scraping-Script
+# Scraping Script: Indeed Job Salaries + Key Words
 Jupyter Notebook that performs a scraping of Indeed job posts for user-inputted key words.
 
 Requirements:
